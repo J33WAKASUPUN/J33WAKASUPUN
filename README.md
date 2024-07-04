@@ -41,7 +41,7 @@ const jeewaka = {
 ```
 
 
-
+---
 <h3 align="center">My Statistics :</h3>
 <p align="center">
 <table align="center">
