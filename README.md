@@ -1,7 +1,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></picture></p>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;Graphic+Designer;Freelancer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
 </div>
 
 ---
@@ -18,30 +18,29 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-<ul>
-            <li>🌱 <b>I’m currently learning</b> : Full-Stack Web Developing</li>
-            <li>🧑‍🎓 <b>  I’m an Undergraduate at</b> : SLIATE</li>
-            <li>💬 <b>Ask me about </b> : Font-End Web Developing</li>
-            <li>📫 <b>How to reach me</b> : <a href="supunprabodha789@gmail.com">supunprabodha789@gmail.com</a></li>
-            <li>😄 <b>Fun fact</b> : I love Gaming (🎮), Codeing(💻), Traveling(🌍), and Art(🎨).</li>
-</ul>
 
-</td>
-<td width="50%" align="center">
+```javascript
+const jeewaka = {
+    name: "Jeewaka Supun",
+    location: "Sri Lanka, Kandy",
+    email: "supunprabodha789@gmail.com",
+    phone: "+94-71-530-08663",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "ui/ux design"],
+    technologies: {
+        library: "React.js",
+        framework: ["Next.js"],
+        backEnd: ["Node", "PHP", "Express"]
+        devOps: "Docker",
+        databases: ["mongo", "MySql", "Firebase"],
+        misc: ["Firebase", "php"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    funFact: "There are 10 types of people in the world: those who understand binary, and those who don't"
+};
+```
 
-  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-  
-  </td>
-</tr>
-</table>
-
-
----
 
 <h3 align="center">My Statistics :</h3>
 <p align="center">
@@ -49,13 +48,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=light&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=light&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
