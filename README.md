@@ -29,7 +29,7 @@ const jeewaka = {
     askMeAbout: ["web dev", "tech", "ui/ux design"],
     technologies: {
         library: "React.js",
-        framework: ["Next.js"],
+        framework: "Next.js",
         backEnd: ["Node", "PHP", "Express"]
         devOps: "Docker",
         databases: ["mongo", "MySql", "Firebase"],
