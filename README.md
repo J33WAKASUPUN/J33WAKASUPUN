@@ -6,15 +6,6 @@
 
 ---
 
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></p>
 
@@ -25,15 +16,14 @@ const jeewaka = {
     location: "Sri Lanka, Kandy",
     email: "supunprabodha789@gmail.com",
     phone: "+94-71-530-08663",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Python", "Java", "PHP", "dart"],
     askMeAbout: ["web dev", "tech", "ui/ux design"],
     technologies: {
         library: "React.js",
         framework: "Next.js",
         backEnd: ["Node", "PHP", "Express"]
         devOps: "Docker",
-        databases: ["mongo", "MySql", "Firebase"],
-        misc: ["Firebase", "php"]
+        databases: ["mongo", "MySql", "Firebase, supabase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "There are 10 types of people in the world: those who understand binary, and those who don't"
