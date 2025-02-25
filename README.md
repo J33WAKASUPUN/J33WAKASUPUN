@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer; Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
 </div>
 
 ---
