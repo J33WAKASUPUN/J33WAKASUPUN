@@ -17,11 +17,11 @@ const jeewaka = {
     email: "supunprabodha789@gmail.com",
     phone: "+94-71-530-08663",
     code: ["Javascript", "Python", "Java", "PHP", "dart"],
-    askMeAbout: ["web dev", "tech", "ui/ux design"],
+    askMeAbout: ["web dev", "tech", "ui/ux design", "mobile app dev"],
     technologies: {
         library: "React.js",
-        framework: "Next.js",
-        backEnd: ["Node", "PHP", "Express"]
+        framework: ["Next.js", "Flutter"],
+        backEnd: ["Node", "PHP", "Express", "Django"]
         devOps: "Docker",
         databases: ["mongo", "MySql", "Firebase, supabase"]
     },
@@ -40,7 +40,6 @@ const jeewaka = {
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
