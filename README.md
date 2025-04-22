@@ -79,10 +79,10 @@ const jeewaka = {
  <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
  <img src="https://skillicons.dev/icons?i=figma,ps"/> 
  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery"/>
- <img src="https://skillicons.dev/icons?i=java,hibernate,regex,mysql,postman,spring,flask,mysql,mongodb,prisma"/> 
- <img src="https://skillicons.dev/icons?i=github,git,autocad,maven,ai"/>  
- <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,jquery"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java"/>
+ <img src="https://skillicons.dev/icons?i=hibernate,regex,mysql,postman,spring,flask,mysql,mongodb,prisma"/> 
+ <img src="https://skillicons.dev/icons?i=github,git"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
  </div>
 
 <div align="center">
