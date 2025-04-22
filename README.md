@@ -8,6 +8,7 @@
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></div>
+<br/>
 
 
 ```javascript
