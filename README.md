@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github%20profile%20pic.png" width="1000" height="300" />
+<img width="100%" height="auto" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github%20profile%20pic.png" height="175px"/>
 </a>
 
 <div align=center>
