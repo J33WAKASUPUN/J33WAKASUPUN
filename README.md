@@ -1,6 +1,8 @@
-<a href="#">
-<img width="100%" height="auto" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github%20profile%20pic.png" height="175px"/>
-</a>
+<div align="center">
+  <a href="#">
+    <img width="80%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github%20profile%20pic.png" />
+  </a>
+</div>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
