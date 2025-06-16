@@ -42,7 +42,7 @@ const jeewaka = {
     "Progressive Web Applications (PWA)",
     "Single Page Applications (SPA)"
   ],
-  funFact: "There are 10 types of people in the world: those who understand binary, and those who don’t."
+  funFact: "In a parallel universe, my code runs perfectly the first time."
 };
 
 ```
