@@ -22,7 +22,7 @@ const jeewaka = {
   name: "Jeewaka Supun",
   location: "Kandy, Sri Lanka",
   email: "supunprabodha789@gmail.com",
-  code: ["JavaScript", "Python", "Java", "PHP", "Dart"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Dart"],
   askMeAbout: ["Web Development", "Mobile App Development", "Tech", "UI/UX Design"],
   technologies: {
     library: ["React.js", "Tailwind CSS", "Redux", "Framer Motion", "Bootstrap", "jQuery"],
