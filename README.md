@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
-
+#
 
 <h3 align="center">Driven by Curiosity, Powered by Innovation.</h3>
 <!-- <div align="center">
@@ -18,7 +18,6 @@
 </div> -->
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></div>
 <br/>
-
 
 ```javascript
 const jeewaka = {
@@ -50,7 +49,7 @@ const jeewaka = {
 
 ```
 
-
+#
 
 <h3 align="center">My Statistics :</h3>
 <div align="center">
@@ -74,14 +73,14 @@ const jeewaka = {
 </tr>
 </table>
 
-
+#
 
 <h3 align="center">Connect with me :</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 </div>
 
-
+#
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
