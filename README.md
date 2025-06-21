@@ -1,13 +1,13 @@
 <div align="center">
   <a href="#">
-    <img width="80%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github cover image.png" />
+    <img width="80%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=C62828&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00CC&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
 </div>
 
 #
