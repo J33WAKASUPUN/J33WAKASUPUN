@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</div>
-
-
-<div align="center">
   <a href="#">
     <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
   </a>
@@ -12,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00CC&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jeewaka+Supun+%F0%9F%91%8B;IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;" alt="Headline" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
 #
@@ -97,5 +92,7 @@ const jeewaka = {
  </div>
 
 <div align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF00CC,100:002EFF" />
 </div>
+
+
