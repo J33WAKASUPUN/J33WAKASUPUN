@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
+
+
+<div align="center">
   <a href="#">
     <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
   </a>
