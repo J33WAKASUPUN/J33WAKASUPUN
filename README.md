@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="80%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
+    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
   </a>
 </div>
 
