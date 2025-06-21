@@ -12,7 +12,10 @@
 
 #
 
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Driven by Curiosity, Powered by Innovation.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=600&height=70&lines=IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;Driven+by+Innovation;Coding+Solutions;Creating+The+Future" alt="Headline" />
+</div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></div>
 <br/>
 
