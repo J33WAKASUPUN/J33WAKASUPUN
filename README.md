@@ -94,7 +94,5 @@ const jeewaka = {
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF00CC,100:002EFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF33CC,100:3366FF" />
 </div>
-
-
