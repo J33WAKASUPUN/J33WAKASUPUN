@@ -78,7 +78,7 @@ console.log(`
 </div>
 <br/>
 
-<div align="center">Current Focus & Goals :</div>
+<h3 align="center">Current Focus & Goals :</h3>
 <div align="center">
 <br/>
   
