@@ -54,9 +54,24 @@ const jeewaka = {
     "Progressive Web Applications (PWA)",
     "Single Page Applications (SPA)"
   ],
-  funFact: "In a parallel universe, my code runs perfectly the first time."
+  interests: [
+    "Sci-Fi Movies & TV Shows",
+    "Star Wars, Dune, Interstellar, Blade Runner",
+    "Exploring futuristic tech and storytelling"
+  ],
+  funFact: "In a parallel universe, my code runs perfectly the first time. This is the way."
 };
-console.log("Welcome to my digital universe!");
+
+console.log(`
+============================================
+   🚀 Welcome to my digital universe
+   🛡️ I am a developer, forged in code and coffee.
+   💻 My logic is clean. My UI is sharp. My bugs are few.
+   ⚙️ I troubleshoot in darkness and deploy in light.
+   ✨ I build. I break. I refactor.
+   🧠 This is the way.
+============================================
+`);
 ```
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
