@@ -16,7 +16,15 @@
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=600&height=70&lines=IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;Driven+by+Innovation;Coding+Solutions;Creating+The+Future" alt="Headline" />
 </div> -->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF00CC&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Building+Digital+Solutions;Creating+Tomorrow's+Technology" alt="Typing Animation" />
+</div>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002eff&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002eff&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff00cc?style=for-the-badge&labelColor=000000" alt="Focus" />
+</div>
 <br/>
 
 ```javascript
