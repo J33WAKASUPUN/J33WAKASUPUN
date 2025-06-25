@@ -56,6 +56,19 @@ const jeewaka = {
 };
 
 ```
+#
+
+<div align="center"> Current Focus & Goals :</div>
+<div align="center">
+<br/>
+  
+| 🔵 **Working On** | 🟣 **Learning** | 🔵 **Next Goals** |
+|:---:|:---:|:---:|
+| Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
+| Mobile Development | DevOps & Docker | Open Source Contrib |
+| UI/UX Innovation | System Design | Tech Leadership |
+
+</div>
 
 #
 
