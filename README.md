@@ -10,7 +10,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
-#
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
 <h3 align="center">Driven by Curiosity, Powered by Innovation.</h3>
 <!-- <div align="center">
@@ -56,7 +58,10 @@ const jeewaka = {
 };
 
 ```
-#
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+<br/>
 
 <div align="center"> Current Focus & Goals :</div>
 <div align="center">
@@ -70,9 +75,11 @@ const jeewaka = {
 
 </div>
 
-#
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-<h3 align="center">My Statistics :</h3>
+<h3 align="center">GitHub Analytics :</h3>
 <div align="center">
 <table align="center">
 <tr border="none">
@@ -95,16 +102,20 @@ const jeewaka = {
 </tr>
 </table>
 
-#
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-<h3 align="center">Connect with me :</h3>
+<h3 align="center">Let's Connect :</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 </div>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-#
-
-<h3 align="center">Languages and Tools :</h3>
+<h3 align="center">Tech Arsenal :</h3>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
  <img src="https://skillicons.dev/icons?i=figma,ps"/> 
@@ -116,5 +127,5 @@ const jeewaka = {
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF33CC,100:3366FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF00CC,100:002EFF" />
 </div>
