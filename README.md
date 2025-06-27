@@ -59,7 +59,7 @@ const jeewaka = {
     "Star Wars, Dune, Interstellar, Blade Runner",
     "Exploring futuristic tech and storytelling"
   ],
-  funFact: "In a parallel universe, my code runs perfectly the first time. This is the way."
+  funFact: "In a parallel universe, my code runs perfectly the first time."
 };
 
 console.log(`
