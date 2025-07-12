@@ -17,7 +17,7 @@
 <h3 align="center" style="color:#FF6B00;">Forged in Code, Fueled by Curiosity.</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Engineer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
 
 </div>
