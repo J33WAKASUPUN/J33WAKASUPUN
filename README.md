@@ -143,5 +143,3 @@ console.log(`
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
 </div>
 <br/>
-
-This profile README is licensed under the [MIT License](https://opensource.org/licenses/MIT).
