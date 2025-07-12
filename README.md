@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=000000&strokeWidth=1" />
 </div>
 
 <div align="center">
@@ -142,4 +142,3 @@ console.log(`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
 </div>
-
