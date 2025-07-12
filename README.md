@@ -1,31 +1,30 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
+    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github_cover_imge_2.jpg" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Driven by Curiosity, Powered by Innovation.</h3>
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=600&height=70&lines=IT+Student;Web+Developer;Mobile+App+Developer;UI/UX+Designer;Freelancer;Problem+Solver;Driven+by+Innovation;Coding+Solutions;Creating+The+Future" alt="Headline" />
-</div> -->
+<h3 align="center" style="color:#FF6B00;">Forged in Code, Fueled by Curiosity.</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF00CC&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Building+Digital+Solutions;Creating+Tomorrow's+Technology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Engineer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
+
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002eff&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002eff&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff00cc?style=for-the-badge&labelColor=000000" alt="Focus" />
+<div align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20+%20Systems-FF6B00?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
 
@@ -81,10 +80,10 @@ console.log(`
 <div align="center">
 <br/>
   
-| 🔵 **Working On** | 🟣 **Learning** | 🔵 **Next Goals** |
+| 🔵 **Working On** | 🟠 **Learning** | 🔵 **Next Goals** |
 |:-------:|:-------:|:-------:|
 | Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
-| Mobile Development | DevOps & Docker | Open Source contribution |
+| Mobile Development | DevOps & Docker | Open Source Contribution |
 | UI/UX Innovation | System Design | Tech Leadership |
 
 </div>
@@ -141,5 +140,6 @@ console.log(`
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF00CC,100:002EFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
 </div>
+
