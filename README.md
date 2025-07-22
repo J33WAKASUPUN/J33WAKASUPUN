@@ -76,7 +76,7 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Current Focus & Goals :</h3>
+<h3 align="center">Current Focus & Goals</h3>
 <div align="center">
 <br/>
   
@@ -92,7 +92,7 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">GitHub Analytics :</h3>
+<h3 align="center">GitHub Analytics</h3>
 <div align="center">
 <table align="center">
 <tr border="none">
@@ -119,16 +119,18 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Let's Connect :</h3>
+<h3 align="center">Let's Connect</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+  &nbsp;
+<a href="mailto:supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
 </div>
 <br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Tech Arsenal :</h3>
+<h3 align="center">Tech Arsenal</h3>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
  <img src="https://skillicons.dev/icons?i=figma,ps"/> 
@@ -142,4 +144,4 @@ console.log(`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
 </div>
-<br/>
+<h4 align="center">Looking forward to connecting with you! 🚀</h4>
