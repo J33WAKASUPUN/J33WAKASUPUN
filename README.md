@@ -78,7 +78,6 @@ console.log(`
 
 <h3 align="center">Current Focus & Goals</h3>
 <div align="center">
-<br/>
   
 | 🔵 **Working On** | 🟠 **Learning** | 🔵 **Next Goals** |
 |:-------:|:-------:|:-------:|
