@@ -141,4 +141,5 @@ console.log(`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
 </div>
+
 <h4 align="center">Looking forward to connecting with you! 🚀</h4>
