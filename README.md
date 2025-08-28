@@ -100,7 +100,7 @@ console.log(`
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=calm&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=calm&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=002EFF&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=002EFF&background=0d1117" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="J33WAKASUPUN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=calm&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=002EFF&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=002EFF&background=0d1117" /> 
 </td>
 
 <td width="50%" align="center">
