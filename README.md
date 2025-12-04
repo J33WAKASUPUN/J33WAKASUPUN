@@ -106,7 +106,7 @@ console.log(`
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FF6B00&bg_color=0d1117" />
   <br></br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Thisara's%20Contribution%20Graph&title_color=FF6B00" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%"/>
 </td>
 </tr>
 </table>
