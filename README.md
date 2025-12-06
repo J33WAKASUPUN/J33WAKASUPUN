@@ -37,16 +37,11 @@ const jeewaka = {
   askMeAbout: ["Web Development", "Mobile App Development", "UI/UX Design", "Tech", "AI/ML"],
   technologies: {
     library: ["React.js", "Tailwind CSS", "Redux", "Framer Motion", "Bootstrap", "jQuery"],
-    frameworks: [
-      "Next.js",
-      "Flutter",
-      "Vue.js",
-      "NestJS",
-      "FastAPI",
-    ],
-    backEnd: ["Node.js", "Laravel", "Express.js", "Django", "Spring Boot"],
-    devOps: ["Docker"],
+    frameworks: ["Next.js", "Flutter", "Vue.js"],
+    backEnd: ["Node.js", "Laravel", "Express.js", "NestJS", "Django", "Spring Boot", "FastAPI"],
+    devOps: ["Docker", "K8", "Terraform", "Github", "Jenkins"],
     databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "Supabase"]
+    cloud: ["AWS", "Azure", "GCP"]
   },
   architecture: [
     "Serverless Architecture",
