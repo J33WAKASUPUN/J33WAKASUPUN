@@ -39,7 +39,7 @@ const jeewaka = {
     library: ["React.js", "Tailwind CSS", "Redux", "Framer Motion", "Bootstrap", "jQuery"],
     frameworks: ["Next.js", "Flutter", "Vue.js"],
     backEnd: ["Node.js", "Laravel", "Express.js", "NestJS", "Django", "Spring Boot", "FastAPI"],
-    devOps: ["Docker", "K8", "Terraform", "Github", "Jenkins"],
+    devOps: ["Docker", "K8s", "Terraform", "Github", "Jenkins"],
     databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "Supabase"]
     cloud: ["AWS", "Azure", "GCP"]
   },
