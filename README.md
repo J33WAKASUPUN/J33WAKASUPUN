@@ -97,7 +97,8 @@ console.log(`
   <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+  <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sachira263&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
   <br></br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FFFFFF&line=FF6B00&point=FF6B00&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=FF6B00&area_color=002EFF" width="100%" alt="Jeewaka's Activity Graph"/>
 </td>
