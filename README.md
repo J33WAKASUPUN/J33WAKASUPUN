@@ -92,16 +92,21 @@ console.log(`
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=calm&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=calm&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117" alt="J33WAKASUPUN's Github Stats" />
+  </a>
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="J33WAKASUPUN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&theme=calm&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=002EFF&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=002EFF&background=0d1117" /> 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="J33WAKASUPUN's streak" src="https://streak-stats.demolab.com?user=J33WAKASUPUN&theme=calm&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=002EFF&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=002EFF&background=0d1117" />
+  </a>
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FF6B00&bg_color=0d1117" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FF6B00&bg_color=0d1117" alt="J33WAKASUPUN's Top Languages" />
+  </a>
   <br></br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </td>
 </tr>
 </table>
