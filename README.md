@@ -87,20 +87,19 @@ console.log(`
 </div>
 
 <h3 align="center">GitHub Analytics</h3>
-
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00&bg_color=0d1117&include_all_commits=true" alt="Jeewaka's Github Stats" />
-  <br></br>
-  <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
+    <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
 </td>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
-  <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sachira263&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
-  <br></br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FFFFFF&line=FF6B00&point=FF6B00&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=FF6B00&area_color=002EFF" width="100%" alt="Jeewaka's Activity Graph"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </td>
 </tr>
 </table>
