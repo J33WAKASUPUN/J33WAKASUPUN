@@ -96,7 +96,6 @@ console.log(`
   <br></br>
   <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
 </td>
-
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
   <br></br>
