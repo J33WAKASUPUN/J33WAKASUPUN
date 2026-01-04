@@ -2,9 +2,7 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually
   workflow_dispatch:
-  # (Optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,26 +11,64 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Left Top: General Stats (Stars, Commits, PRs)
+      - name: General Stats
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: J33WAKASUPUN
-          template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           config_timezone: Asia/Colombo
-          
-          # Enable Languages Graph
+          # Force Orange/Blue Theme
+          extras_css: |
+            h1, h2, h3, strong { color: #FF6B00 !important; }
+            span, div, .field { color: #002EFF !important; }
+            svg { background-color: #0d1117 !important; }
+
+      # 2. Right Top: Top Languages (Donut Chart)
+      - name: Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_colors: github
-          plugin_lines: yes
-          
-          # FORCE YOUR SPECIFIC COLORS
-          # Background: #0d1117
-          # Title (Orange): #FF6B00 
-          # Text (Blue): #002EFF
+          plugin_languages_details: percentage
+          # Force Orange/Blue Theme
           extras_css: |
-            svg { background-color: #0d1117 !important; }
             h1, h2, h3, strong { color: #FF6B00 !important; }
-            .field, div, span { color: #002EFF !important; }
-            .stat { color: #002EFF !important; }
+            span, div, .field { color: #002EFF !important; }
+            svg { background-color: #0d1117 !important; }
+
+      # 3. Left Bottom: Calendar/Streak (IsoCalendar)
+      - name: Streak / Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          # Force Orange/Blue Theme
+          extras_css: |
+            h1, h2, h3, strong { color: #FF6B00 !important; }
+            span, div, .field { color: #002EFF !important; }
+            svg { background-color: #0d1117 !important; }
+
+      # 4. Right Bottom: Activity Graph (Wavy Lines)
+      - name: Activity Graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: repositories, history
+          # Force Orange/Blue Theme
+          extras_css: |
+            h1, h2, h3, strong { color: #FF6B00 !important; }
+            span, div, .field { color: #002EFF !important; }
+            svg { background-color: #0d1117 !important; }
