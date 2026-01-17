@@ -98,7 +98,7 @@ console.log(`
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
 <div align="center">
