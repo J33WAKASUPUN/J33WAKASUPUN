@@ -10,9 +10,10 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF2FD7,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
+</div> -->
+---
 
 <h3 align="center" style="color:#FF6B00;">Forged in Code, Fueled by Curiosity.</h3>
 
@@ -67,9 +68,10 @@ console.log(`
    ============================================
 `);
 ```
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
+</div> -->
+---
 
 <h3 align="center">Current Focus & Goals</h3>
 <div align="center">
@@ -82,9 +84,10 @@ console.log(`
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
+</div> -->
+---
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
@@ -101,9 +104,10 @@ console.log(`
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF2FD7&line=002EFF&point=FF2FD7&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF2FD7" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
+</div> -->
+---
 
 <h3 align="center">Let's Connect</h3>
 <div align="center">
@@ -112,9 +116,11 @@ console.log(`
 <a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
+</div> -->
+
+---
 
 <h3 align="center">Tech Arsenal</h3>
 <div align="center">
@@ -127,9 +133,10 @@ console.log(`
  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
  </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF2FD7,100:002EFF" />
-</div>
+</div> -->
+---
 
 <h4 align="center">Looking forward to connecting with you! 🚀</h4>
 
