@@ -1,13 +1,13 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github_cover_image_5.png" />
+    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/gitCoverImageFinal.png" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF2FD7,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
 </div>
 
 <div align="center">
@@ -17,14 +17,14 @@
 <h3 align="center" style="color:#FF6B00;">Forged in Code, Fueled by Curiosity.</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF2FD7&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
 
 </div>
 <div align="center" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-FF6B00?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-FF2FD7?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
 
@@ -74,7 +74,7 @@ console.log(`
 <h3 align="center">Current Focus & Goals</h3>
 <div align="center">
   
-| 🔵 **Working On** | 🟠 **Learning** | 🔵 **Next Goals** |
+| 🔵 **Working On** | 🟣 **Learning** | 🔵 **Next Goals** |
 |:-------:|:-------:|:-------:|
 | Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
 | Mobile Development | DevOps & Docker | Open Source Contribution |
@@ -91,14 +91,14 @@ console.log(`
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-     <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117&rank_icon=github" />
+     <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF2FD7&text_color=002EFF&icon_color=FF2FD7&bg_color=0d1117&rank_icon=github" />
 </td>
 <td width="100%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF2FD7&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF2FD7&line=002EFF&point=FF2FD7&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF2FD7" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
 <div align="center">
@@ -128,7 +128,8 @@ console.log(`
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF2FD7,100:002EFF" />
 </div>
 
 <h4 align="center">Looking forward to connecting with you! 🚀</h4>
+
