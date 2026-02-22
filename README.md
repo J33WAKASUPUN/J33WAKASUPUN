@@ -91,14 +91,20 @@ console.log(`
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-     <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117&rank_icon=github" />
+  
+  <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117&rank_icon=github" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&hide_border=true&ring=002EFF&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&background=0d1117" /> 
+
 </td>
-<td width="100%" align="center">
+
+<td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+  <br></br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
 <div align="center">
