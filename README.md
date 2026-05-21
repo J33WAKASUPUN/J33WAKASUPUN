@@ -94,7 +94,7 @@ console.log(`
   
   <img align="center" src="https://github-readme-stats-nu-olive-67.vercel.app/api?username=J33WAKASUPUN&show_icons=true&count_private=true&hide_border=true&title_color=FF6B00&text_color=002EFF&icon_color=FF6B00&bg_color=0d1117&rank_icon=github" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="Thisara404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&hide_border=true&ring=002EFF&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&background=0d1117" /> 
+  <img title="🔥 Get streak stats for your profile" alt="J33WAKASUPUN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=J33WAKASUPUN&hide_border=true&ring=002EFF&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&background=0d1117" /> 
 
 </td>
 
