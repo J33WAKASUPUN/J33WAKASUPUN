@@ -13,7 +13,7 @@
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
----
+
 
 <h3 align="center" style="color:#707070;">Forged in Code, Fueled by Curiosity.</h3>
 
@@ -85,7 +85,8 @@ console.log(`
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
----
+
+<br/>
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
