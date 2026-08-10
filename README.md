@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="#">
     <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github_cover_image_5.png" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
