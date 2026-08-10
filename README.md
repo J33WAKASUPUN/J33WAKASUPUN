@@ -112,22 +112,19 @@ console.log(`
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
----
 
-<h3 align="center">Let's Connect</h3>
+<!-- <h3 align="center">Let's Connect</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
   &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
 </div>
-<br/>
+<br/> -->
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
 
----
-
-<h3 align="center">Tech Arsenal</h3>
+<!-- <h3 align="center">Tech Arsenal</h3>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
  <img src="https://skillicons.dev/icons?i=figma,ps"/> 
@@ -136,7 +133,7 @@ console.log(`
  <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord"/> 
  <img src="https://skillicons.dev/icons?i=github,git"/>  
  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
- </div>
+ </div> -->
 
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D9D9D9,100:707070" />
