@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:707070,100:D9D9D9&text=I%20am%20Jeewaka%20Supun&fontColor=F5F5F5&fontSize=60&fontAlign=50&animation=fadeIn&stroke=1F1F1F&strokeWidth=5" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:707070,100:D9D9D9&text=I%20am%20Jeewaka%20Supun&fontColor=F5F5F5&fontSize=60&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=1" />
 </div>
 
 <!-- <div align="center">
