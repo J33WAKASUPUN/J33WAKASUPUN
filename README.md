@@ -34,38 +34,44 @@ const jeewaka = {
   name: "Jeewaka Supun",
   location: "Kandy, Sri Lanka",
   email: "supunprabodha789@gmail.com",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Dart"],
-  askMeAbout: ["Web Development", "Mobile App Development", "UI/UX Design", "Tech", "AI/ML"],
+
+  code: ["TypeScript", "JavaScript", "Python", "PHP", "Dart"],
+
   technologies: {
-    library: ["React.js", "Tailwind CSS", "Redux", "Framer Motion", "Bootstrap", "jQuery"],
-    frameworks: ["Next.js", "Flutter", "Vue.js"],
-    backEnd: ["Node.js", "Laravel", "Express.js", "NestJS", "Django", "Spring Boot", "FastAPI"],
-    devOps: ["Docker", "K8s", "Terraform", "Github", "Github Actions", "Gitlab", "Jenkins", "Prometheus", "Grafana"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "Supabase"]
-    cloud: ["AWS", "Azure", "GCP"]
+    frontend: ["Next.js", "React", "Tailwind CSS", "Flutter"],
+    backend: ["Node.js", "NestJS", "FastAPI", "Laravel", "Express.js"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "pgvector"],
+    devOpsCloud: ["AWS", "Docker", "Kubernetes", "Terraform", "GitHub Actions"],
+    aiAgentic: [
+      "Agentic Systems",
+      "RAG Pipelines",
+      "LangGraph",
+      "MCP",
+      "Qdrant",
+      "LLM APIs"
+    ]
   },
+
   architecture: [
-    "Serverless Architecture",
-    "Progressive Web Applications (PWA)",
-    "Single Page Applications (SPA)"
+    "Agentic Workflows & Multi-Agent Architecture",
+    "Agentic RAG & Vector Search Architecture",
+    "Microservices & Event-Driven Systems",
+    "Serverless & Edge Compute Architecture"
   ],
-  interests: [
-    "Sci-Fi Movies & TV Shows",
-    "Star Wars, Dune, Interstellar, Blade Runner",
-    "Exploring futuristic tech and storytelling"
-  ],
+
+  interests: ["Sci-Fi Movies", "AI Engineering", "Futuristic Tech"],
   funFact: "In a parallel universe, my code runs perfectly the first time."
 };
 
 console.log(`
-   ============================================
-   - Welcome to my digital universe
-   - I am a developer, forged in code and coffee.
-   - My logic is clean. My UI is sharp. My bugs are few.
-   - I troubleshoot in darkness and deploy in light.
-   - I build. I break. I refactor.
-   - This is the way.
-   ============================================
+  ============================================
+  - Welcome to my digital universe
+  - Forged in code and coffee.
+  - My logic is clean. My UI is sharp.
+  - I troubleshoot in darkness & deploy in light.
+  - I build. I break. I refactor.
+  - This is the way.
+  ============================================
 `);
 ```
 <!-- <div align="center">
@@ -139,5 +145,5 @@ console.log(`
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D9D9D9,100:707070" />
 </div> -->
 ---
-<h4 align="center">Looking forward to connecting with you!</h4>
+<h4 align="center">Turning coffee into scalable architecture.</h4>
 
