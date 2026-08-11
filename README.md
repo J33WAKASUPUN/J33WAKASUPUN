@@ -41,7 +41,7 @@ const jeewaka = {
     frontend: ["Next.js", "React", "Tailwind CSS", "Flutter"],
     backend: ["Node.js", "NestJS", "FastAPI", "Laravel", "Express.js", "Django", "Spring Boot", "Microservices"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "pgvector"],
-    devOpsCloud: ["AWS", "Azure", "GCP", "DigitalOcean", "Docker", "Kubernetes", "Terraform", "CI/CD", "Nginx", "Prometheus", "Grafana",],
+    devOpsCloud: ["AWS", "Azure", "GCP", "DigitalOcean", "Docker", "Kubernetes", "Terraform", "Prometheus", "Grafana",],
     aiAgentic: [
       "Agentic Systems",
       "RAG Pipelines",
