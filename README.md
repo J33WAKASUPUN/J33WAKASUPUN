@@ -39,13 +39,15 @@ const jeewaka = {
 
   technologies: {
     frontend: ["Next.js", "React", "Tailwind CSS", "Flutter"],
-    backend: ["Node.js", "NestJS", "FastAPI", "Laravel", "Express.js"],
+    backend: ["Node.js", "NestJS", "FastAPI", "Laravel", "Express.js", "Django", "Spring Boot", "Microservices"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "pgvector"],
-    devOpsCloud: ["AWS", "Docker", "Kubernetes", "Terraform", "GitHub Actions"],
+    devOpsCloud: ["AWS", "Azure", "GCP", "DigitalOcean", "Docker", "Kubernetes", "Terraform", "CI/CD", "Nginx", "Prometheus", "Grafana",],
     aiAgentic: [
       "Agentic Systems",
       "RAG Pipelines",
       "LangGraph",
+      "Langfuse",
+      "Inngest",
       "MCP",
       "Qdrant",
       "LLM APIs"
@@ -62,17 +64,6 @@ const jeewaka = {
   interests: ["Sci-Fi Movies", "AI Engineering", "Futuristic Tech"],
   funFact: "In a parallel universe, my code runs perfectly the first time."
 };
-
-console.log(`
-  ============================================
-  - Welcome to my digital universe
-  - Forged in code and coffee.
-  - My logic is clean. My UI is sharp.
-  - I troubleshoot in darkness & deploy in light.
-  - I build. I break. I refactor.
-  - This is the way.
-  ============================================
-`);
 ```
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
