@@ -4,20 +4,20 @@
   </a>
 </div> -->
 
-<br/>
+<!-- <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:707070,100:D9D9D9&text=I%20am%20Jeewaka%20Supun&fontColor=363636&fontSize=60&fontAlign=50&animation=fadeIn&stroke=7D7D7D&strokeWidth=6" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
 
 
-<h3 align="center" style="color:#707070;">Forged in Code, Fueled by Curiosity.</h3>
+<!-- <h3 align="center" style="color:#707070;">Forged in Code, Fueled by Curiosity.</h3> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=707070&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=D9D9D9&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-707070?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
-<br/>
+<br/> -->
 
 ```javascript
 const jeewaka = {
