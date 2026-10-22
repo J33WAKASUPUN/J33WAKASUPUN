@@ -100,7 +100,7 @@ const jeewaka = {
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=D9D9D9&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
   <br></br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=D9D9D9&line=707070&point=D9D9D9&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=D9D9D9" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=D9D9D9&line=707070&point=D9D9D9&area=true&hide_border=true&custom_title=Jeewaka_Supun's%20Contribution%20Graph&title_color=D9D9D9" width="100%" alt="J33WAKASUPUN's Activity Graph"/> -->
 </td>
 </tr>
 </table>
