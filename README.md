@@ -83,9 +83,9 @@ const jeewaka = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div> -->
 
-<br/>
+<!-- <br/> -->
 
-<h3 align="center">GitHub Analytics</h3>
+<!-- <h3 align="center">GitHub Analytics</h3> -->
 <p align="center">
 <table align="center">
 <tr border="none">
