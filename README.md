@@ -61,7 +61,7 @@ const jeewaka = {
     "Serverless & Edge Compute Architecture"
   ],
 
-  interests: ["Sci-Fi Movies", "AI Engineering", "Futuristic Tech"],
+  interests: ["Astronomy", "Sci-Fi Movies", "Games", "AI Engineering", "Futuristic Tech"],
   funFact: "In a parallel universe, my code runs perfectly the first time."
 };
 ```
