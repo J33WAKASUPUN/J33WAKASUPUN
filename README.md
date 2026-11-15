@@ -132,11 +132,11 @@ const jeewaka = {
  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
  </div> -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D9D9D9,100:707070" />
-</div> -->
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500"> -->
 
 
 <h4 align="center">Turning coffee into scalable architecture.</h4>
